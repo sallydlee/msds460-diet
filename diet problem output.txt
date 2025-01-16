@@ -1,0 +1,6 @@
+eggs = 140.00
+granola = 151.67
+shrimp = 0.00
+vegetables = 0.00
+yogurt = 1.84
+Cost of Weekly Diet: $120.84
